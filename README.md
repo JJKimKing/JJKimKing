@@ -18,4 +18,4 @@
 </picture>
 
 ### 📮 Contact
-[![Outlook](https://img.shields.io/badge/Email-JaneKim49%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:JaneKim49@outlook.com)
+[![Outlook](https://img.shields.io/badge/Email-JaneKim49%40outlook.com-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:18556503100@gmail.com)
